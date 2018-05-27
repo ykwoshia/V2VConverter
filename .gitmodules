@@ -1,0 +1,4 @@
+[submodule "DelphiAST"]
+	path = DelphiAST
+	url = https://github.com/ykwoshia/DelphiAST
+	branch = v2v
